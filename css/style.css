@@ -26,8 +26,7 @@ body{
    text-shadow: 1px 1px black;
    letter-spacing:1px;
    font-family:monospace;
-   font-size:20px;
-   background-image: url("stars.PNG");
+   font-size:18px;
 
 }
 
@@ -59,7 +58,7 @@ color:darkred;
 text-shadow: 1px 2px lightblue;
 letter-spacing: 1px;
 font-family:monospace;
-font-size: 20px;
+font-size: 23px;
 margin-top:100px;
 
 }
@@ -78,4 +77,5 @@ img{
     border-radius: 30px;
     border-style:groove;
     border-color: hotpink;
+    border-radius: 80px;
 }
