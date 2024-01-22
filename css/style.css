@@ -1,0 +1,73 @@
+h1{
+    color:mediumvioletred;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-weight: 200;
+    font-size: 55px;
+    text-shadow: 2px 2px hotpink;
+}
+
+.text1{
+    color:palevioletred;
+    border-style:groove dotted;
+    border-radius: 25px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+border-color:lightblue;
+border-width: 6px;
+width: 600px;
+text-shadow: 1px 1px black;
+letter-spacing: 1px;
+}
+
+
+body{
+    background-color:lightpink;
+   color:darkslategray;
+   text-shadow: 1px 1px black;
+   letter-spacing:1px;
+   font-family:monospace;
+   font-size:20px;
+   
+}
+
+
+span{
+    font-size:80px;
+    text-shadow: 1px 3px lightseagreen;
+    color:lightblue;
+
+}
+  
+a{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+    color:crimson;
+    text-shadow: 2px 2px black;
+    background-color:hotpink;
+    border-color:lightblue;
+    
+}
+
+.text2{
+    border-radius: 25px;
+    width: 550px;
+    border-color: lightblue;
+border-style:outset;
+color:darkred;
+text-shadow: 1px 2px lightblue;
+letter-spacing: 1px;
+font-family:monospace;
+font-size: 20px;
+margin-top:150px;
+
+}
+
+li{
+    color: black;
+    text-shadow: 2px 3px hotpink;
+    font-family:monospace;
+    font-weight:800;
+    padding:15px;
+}
+
